@@ -3,9 +3,9 @@
 
 <div align="center">
 
-# 🧠 JARVIS // STARK INDUSTRIES DEVELOPER NODE
+# 🧠 JARVIS // DEVELOPER SYSTEM ONLINE
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=2200&pause=600&color=00F7FF&center=true&vCenter=true&width=900&lines=Booting+JARVIS+Interface...;Scanning+Tony+Stark+Profile...;Loading+Python+%7C+C%2B%2B+%7C+Web+Stack...;System+Optimization+Complete+%E2%9C%94;Welcome+Back+Tony" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=2200&pause=600&color=00F7FF&center=true&vCenter=true&width=900&lines=Booting+Developer+Profile...;Loading+Python+%7C+C%2B%2B+%7C+Web+Stack...;Syncing+Learning+Progress...;System+Ready+%E2%9C%94" />
 
 </div>
 
@@ -14,53 +14,40 @@
 ## 🛰️ SYSTEM STATUS
 
 ```txt
-CORE AI        : JARVIS ONLINE
-USER PROFILE   : Tony (Student Developer / Stark Node)
-LOCATION       : Pakistan
-SYSTEM HEALTH  : OPTIMAL
-LEARNING MODE  : ACTIVE
-PROJECT ENGINE : RUNNING
-STATUS         : BUILDING FUTURE SYSTEMS
+CORE SYSTEM     : ACTIVE
+USER            : Tony
+ROLE            : Student Developer
+LOCATION        : Quetta, Pakistan
+STATUS          : LEARNING / BUILDING
+FOCUS MODE      : FULL STACK DEVELOPMENT
+SYSTEM HEALTH   : STABLE
 ````
 
 ---
 
-## 🧬 IDENTITY MATRIX
+## 🧬 ABOUT ME
+
+I’m a student developer focused on learning **Python, C++, and web development** while building real projects to improve my skills.
+
+I’m currently working on improving my programming fundamentals and moving toward **backend development, APIs, and real-world software systems**.
+
+My goal is to become a strong **software engineer / full-stack developer**, build useful applications, and start earning through development and freelancing.
+
+---
+
+## ⚙️ SKILL PROGRESS
 
 ```txt
-NAME      : Tony
-ROLE      : Student Developer
-MISSION   : Become Full-Stack Engineer + AI Builder
-VISION    : Build real-world software systems
-FOCUS     : Python, C++, Web Development, Backend Systems
-STATUS    : CONSISTENT GROWTH MODE
+Python        ██████████░░░ 85%  → Problem solving + automation
+C++           ████████░░░░░ 70%  → Logic + fundamentals
+Web Dev       █████████░░░░ 80%  → HTML, CSS, JavaScript
+Flask/APIs    ███████░░░░░░ 60%  → Backend development
+Git/GitHub    ████████░░░░░ 70%  → Version control
 ```
 
 ---
 
-## ⚡ CORE DIRECTIVE
-
-<div align="center">
-
-> 🧠 “I don’t just learn code — I engineer systems that think, scale, and evolve.”
-
-</div>
-
----
-
-## 📊 NEURAL SKILL MATRIX
-
-```txt
-Python        ██████████░░░ 88%  → Automation, AI, Backend logic
-C++           ████████░░░░░ 75%  → Performance, systems, problem solving
-Web Dev       █████████░░░░ 80%  → Frontend + UI systems
-Flask/APIs    ████████░░░░░ 70%  → Backend architecture
-AI Systems    ███████░░░░░░ 60%  → Machine learning + automation
-```
-
----
-
-## 🧰 ACTIVE TECH ARSENAL
+## 💻 TECH STACK
 
 <div align="center">
 
@@ -77,22 +64,22 @@ AI Systems    ███████░░░░░░ 60%  → Machine learning 
 
 ---
 
-## 🚀 MISSION PROTOCOLS
+## 🚀 CURRENT GOALS
 
 ```txt
-[✔] Learn Python fundamentals
-[✔] Build C++ problem solving skills
-[✔] Create web development projects
-[✔] Understand backend systems (Flask/APIs)
-[ ] Build full-stack production apps
-[ ] Learn AI + automation systems
+[✔] Learn Python fundamentals properly
+[✔] Improve C++ problem solving skills
+[✔] Build web development projects
+[✔] Learn Flask + backend APIs
+[ ] Build full-stack real-world projects
 [ ] Start freelancing as developer
-[ ] Contribute to open-source projects
+[ ] Learn advanced system design basics
+[ ] Work on AI / automation projects
 ```
 
 ---
 
-## 📡 LIVE SYSTEM TELEMETRY
+## 📊 GITHUB STATS
 
 <div align="center">
 
@@ -110,49 +97,37 @@ AI Systems    ███████░░░░░░ 60%  → Machine learning 
 
 ---
 
-## 🧠 JARVIS LOG ENTRY
+## 🧠 QUOTE
 
 <div align="center">
 
-> 🛰️ “Consistency builds systems. Systems build power. Power builds future.”
+> “Consistency beats talent when talent doesn’t work.”
 
 </div>
 
 ---
 
-## 🌐 CONNECTION INTERFACE
+## 🌐 CONNECT
 
 ```txt
 GitHub : https://github.com/YOUR_USERNAME
-Status : ONLINE
-Mode   : BUILD / LEARN / EVOLVE
-Focus  : Software Engineering + AI Development
+Focus  : Learning • Building • Improving
+Status : Open to collaboration & growth
 ```
 
 ---
 
-## ⚡ FINAL SYSTEM STATE
+## ⚡ SYSTEM STATE
 
 <div align="center">
 
-# 🟢 JARVIS SYSTEM ONLINE
+# 🟢 SYSTEM ONLINE
 
-### Stark Developer Node Fully Active
+### Continuous learning and development in progress
 
 </div>
 
 ---
 
-<!-- ===================== END OF FILE ===================== -->
-
-```
-
----
-
-If you want next upgrade, I can make this:
-
-⚡ :contentReference[oaicite:0]{index=0}  
-🧊 :contentReference[oaicite:1]{index=1}  
-🤖 :contentReference[oaicite:2]{index=2}  
-🚀 or a **:contentReference[oaicite:3]{index=3}**
+If you want next upgrade, I can :contentReference[oaicite:0]{index=0} or even a **portfolio website that matches this theme exactly**.
 ```
