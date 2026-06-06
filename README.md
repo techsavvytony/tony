@@ -1,24 +1,123 @@
-# 💫 About Me:
-Student developer exploring Python, C++ and web development while building real-world projects and growing my skills.
+<!-- ===================== HERO SECTION ===================== -->
+<h1 align="center">💫 Hey, I'm Tony</h1>
 
+<p align="center">
+  Student Developer | Future Software Engineer | Builder of Real-World Projects
+</p>
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=techsavvytony&theme=neon&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=techsavvytony&theme=neon&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=techsavvytony&theme=neon&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=techsavvytony&theme=neon&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=techsavvytony&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  From Pakistan 🇵🇰 • Focused on Python • C++ • Web Development • AI Systems
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=techsavvytony&icon=8&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- ===================== ABOUT ME ===================== -->
+<h2>💫 About Me</h2>
+
+<p>
+I’m Tony, a student developer passionate about building software that actually works in the real world.
+I spend most of my time learning, experimenting, and breaking things just to rebuild them better.
+</p>
+
+<p>
+My focus is on mastering <b>Python, C++, and modern web development</b>, while gradually moving into backend systems, APIs, and AI development.
+</p>
+
+<p>
+I don’t just learn theory — I build projects, test ideas, and improve through real execution.
+My long-term goal is to become a full-stack engineer and software architect capable of building scalable systems and intelligent applications.
+</p>
+
+---
+
+<!-- ===================== CURRENT FOCUS ===================== -->
+<h2>🚀 Current Focus</h2>
+
+<ul>
+  <li>Building strong foundations in Python & C++</li>
+  <li>Web development (HTML, CSS, JavaScript)</li>
+  <li>Backend development with Flask & APIs</li>
+  <li>Understanding system design basics</li>
+  <li>Exploring AI / automation tools</li>
+</ul>
+
+---
+
+<!-- ===================== TECH STACK ===================== -->
+<h2>💻 Tech Stack</h2>
+
+<p>
+<b>Languages:</b> Python, C++, JavaScript<br>
+<b>Frontend:</b> HTML, CSS<br>
+<b>Backend:</b> Flask (learning), REST APIs<br>
+<b>Tools:</b> Git, GitHub, VS Code, Linux (Kali/Ubuntu)<br>
+</p>
+
+---
+
+<!-- ===================== GOALS ===================== -->
+<h2>🎯 Goals</h2>
+
+<ul>
+  <li>Master full-stack development</li>
+  <li>Build real-world SaaS / AI-powered applications</li>
+  <li>Start freelancing as a developer</li>
+  <li>Contribute to open-source projects</li>
+  <li>Grow into a software engineer capable of building scalable systems</li>
+</ul>
+
+---
+
+<!-- ===================== PHILOSOPHY ===================== -->
+<h2>⚡ Philosophy</h2>
+
+<blockquote>
+“Build, break, learn, repeat — until it becomes second nature.”
+</blockquote>
+
+---
+
+<!-- ===================== GITHUB STATS ===================== -->
+<h2>📊 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
+
+---
+
+<!-- ===================== TROPHIES ===================== -->
+<h2>🏆 GitHub Trophies</h2>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=darkhub&no-frame=true&margin-w=10" />
+</p>
+
+---
+
+<!-- ===================== QUOTE ===================== -->
+<h2>✍️ Dev Quote</h2>
+
+<blockquote>
+"The best engineers are not born — they are built through failure."
+</blockquote>
+
+---
+
+<!-- ===================== CONTACT ===================== -->
+<h2>📫 Connect With Me</h2>
+
+<ul>
+  <li>GitHub: https://github.com/YOUR_USERNAME</li>
+  <li>Email: your-email@example.com</li>
+</ul>
+
+---
+
+<p align="center">
+  ⚡ Built with consistency, curiosity, and late-night debugging sessions ⚡
+</p>
